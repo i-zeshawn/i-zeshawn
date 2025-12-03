@@ -25,6 +25,6 @@
 </a><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=behlole&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=i-shawn&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-shawn&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i-shawn&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
